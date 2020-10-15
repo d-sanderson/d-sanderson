@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![GHStats](https://github-readme-stats.vercel.app/api?username=dsanderson90&count_private=true)
 =============
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsanderson90) lol, well this is inaccurate
 <!--
 **dsanderson90/dsanderson90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
