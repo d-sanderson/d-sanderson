@@ -3,7 +3,7 @@
 - 💬 Ask me about the JAMstack!
 
 
-![GHStats](https://github-readme-stats.vercel.app/api?username=dsanderson90&count_private=true)
+![GHStats](https://github-readme-stats.vercel.app/api?username=d-sanderson&count_private=true)
 
 
 
