@@ -1,4 +1,4 @@
-### Hi there, I'm Davidv 👋
+### Hi there, I'm David 👋
 - 🌱 I’m currently learning NextJS and ASP.NET MVC5
 - 💬 Ask me about the JAMstack!
 - 📫 How to reach me: ![Twitter](https://twitter.com/_dsanderson)
