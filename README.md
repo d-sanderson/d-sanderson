@@ -1,7 +1,7 @@
-### Hi there, I'm David 👋
-- 🌱 I’m currently learning TypeScript, .NET, and Microsoft Azure
+### Hi there, I'm Davidv 👋
+- 🌱 I’m currently learning NextJS and ASP.NET MVC5
 - 💬 Ask me about the JAMstack!
-
+- 📫 How to reach me: ![Twitter](https://twitter.com/_dsanderson)
 
 ![GHStats](https://github-readme-stats.vercel.app/api?username=d-sanderson&count_private=true)
 
