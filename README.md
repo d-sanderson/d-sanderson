@@ -1,6 +1,3 @@
-### Hi there, I'm David 👋
-- 🌱 I’m currently learning NextJS and ASP.NET MVC5
-
 ![GHStats](https://github-readme-stats.vercel.app/api?username=d-sanderson&count_private=true)
 
 
