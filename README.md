@@ -1,4 +1,4 @@
-![GHStats](https://github-readme-stats.vercel.app/api?username=d-sanderson&count_private=&trueshow_icons=true&theme=radical)
+![GHStats](https://github-readme-stats.vercel.app/api?username=d-sanderson&count_private=&true&show_icons=true&theme=synthwave)
 
 
 
