@@ -1,5 +1,5 @@
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d-sanderson&theme=prussian)](https://git.io/streak-stats)--->
 
 
-![GHStats](https://github-readme-stats.vercel.app/api?username=d-sanderson&count_private=true&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=d-sanderson&theme=tokyonight-duo&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
