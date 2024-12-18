@@ -28,6 +28,5 @@ I am a Software Engineer from Albuquerque, New Mexico. I enjoy playing piano, le
 
 ## Get in Touch
 
-- 📫 How to reach me: [sanderdj90@gmail.com]
-- 🐦 Twitter: [@_dsanderson]([https://twitter.com/your-twitter-handle](https://x.com/_dsanderson))
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/d-sanderson/)
+- 📫 [Email](sanderdj90@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/d-sanderson/)
