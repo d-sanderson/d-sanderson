@@ -23,8 +23,8 @@ I am a Software Engineer from Albuquerque, New Mexico. I enjoy playing piano, le
 ## About Me
 
 - 💼 Software Engineer at Meow Wolf
-- 🌱 Currently learning AR.js and React Three Fiber
-- 💬 Ask me about JavaScript, and Web Development
+- 🌱 Currently learning React Query and Zu
+- 💬 Ask me about JavaScript, client vs server-side state management, and Web Development
 
 ## Get in Touch
 
