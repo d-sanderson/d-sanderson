@@ -23,7 +23,7 @@ I am a Software Engineer from Albuquerque, New Mexico. I enjoy playing piano, le
 ## About Me
 
 - 💼 Software Engineer at Meow Wolf
-- 🌱 Currently learning React Query and Zu
+- 🌱 Currently learning Sveltekit and Cloudflare workers
 - 💬 Ask me about JavaScript, client vs server-side state management, and Web Development
 
 ## Get in Touch
